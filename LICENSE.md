@@ -1,4 +1,4 @@
-#  
+#  rivals top Scripts offers the most advanced rivals Script, with auto-collect and auto-upgrade. Perfect for dominating any match.
 
 
 
